@@ -1,0 +1,26 @@
+{
+    "name": "weather-cli",
+    "version": "1.0.0",
+    "description": "CLI for getting weather",
+    "main": "index.js",
+    "bin": "./index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cli",
+        "weather"
+    ],
+    "author": "Maxim Pashkevich",
+    "license": "ISC",
+    "homepage": "https://defou1t.ru",
+    "repository": {
+        "type": "git",
+        "url": "https://defou1t.ru"
+    },
+    "bugs": {
+        "url": "https://defou1t.ru",
+        "email": "pasnkevikn@gmail.com"
+    }
+}
